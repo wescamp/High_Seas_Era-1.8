@@ -1,0 +1,22 @@
+border_size=0
+usage=mask
+
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv,Xv,Xv,Xv,Xv,Xv^Bw|,Xv^Bw|,Xv^Bw|,Xv,Xv,Xv,Xv,Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv,Xv,Xv,Xv,Xv,Xv^Bw|,Xv^Bw|,Xv^Bw|,Xv,Xv,Xv,Xv,Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv,Xv,Xv,Xv,Xv,Xv^Bw|,Xv^Bw|,Xv^Bw|,Xv,Xv,Xv,Xv,Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv,Xv,Xv,Ww,Ww,Ww^Bw|,Ww^Bw|,Ww^Bw|,Ww,Ww,Xv,Xv,Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Co, Xv, Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Xv, Co, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Co, Cud,Co, Cud,Co, Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Co, Cud,Co, Cud,Co, Co, Xv, Xv, Xv, Xv 
+Xv, Xv, Co, Co, Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Co, Co, Co, Co, Co, Xv, Xv 
+Xv, Xv, Co, Cud,Cud,Cud,Cud,Rd, Cud,Rd, Cud,Rd, Cud,Rd, Cud,Rd, Cud,Rd, Cud,Rd, Cud,Rd, Cud,Co, Co, Co, Co, Co, Co, Xv, Xv 
+Xv, Xv, Xv, Co, Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Co, Co, Co, Xv, Xv, Xv 
+Xv, Xv, Xv, Co, Cud,Co, Cud,Co, Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Co, Cud,Co, Cud,Co, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Cud,Co, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Cud,Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Co, Xv, Co, Xv, Co, Xv, Co, Xv, Co, Xv, Co, Xv, Co, Xv, Co, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv 

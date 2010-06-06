@@ -1,0 +1,54 @@
+{@campaigns/High_Seas_High_Sorcery/hshs_system.cfg}
+{@campaigns/High_Seas_High_Sorcery/HSHS_Estiban_Gaol.cfg}
+
+[era]
+id=high_seas_high_sorcery
+name= _ "High Seas, High Sorcery"
+require_era=no
+
+[multiplayer_side]
+
+    	id=EoHS_Faction
+	name={MENU_IMG_TXT "units/human-magi/red-mage.png~TC(4,magenta)" _"You, me matey"}
+	type=Red Mage
+	leader=Red Mage
+	recruit=""
+
+[/multiplayer_side]
+
+{USE_HSHS_SYSTEM}
+
+[event]
+  name=prestart
+first_time_only=no
+  {PLACE_GALLEON_SHIP (x=10
+y=10
+side=1)}
+{PLACE_GALLEON_SHIP (x=10
+y=10
+side=1
+[variables]
+ rum_current=2
+jewels_current=3
+spices_current=3
+[/variables])}
+{PLACE_FRIGATE_SHIP (x=10
+y=10
+side=1)}
+[terrain]
+x=11
+y=9
+terrain=Ww
+[/terrain]
+[terrain]
+x=11
+y=8
+terrain=Ww
+[/terrain]
+
+
+[/event]
+{HSHS_TRADING_PORT 11 9 Foox}
+[/era]
+
+
