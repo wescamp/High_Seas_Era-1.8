@@ -1,0 +1,563 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-06-10 22:22+0200\n"
+"PO-Revision-Date: 2010-06-10 22:22+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. [multiplayer_side]: id=high_seas_faction, type=Duelist
+#: High_Seas_Era/_main.cfg:21 High_Seas_Era/_main.cfg:38
+msgid "Captains"
+msgstr ""
+
+#. [set_menu_item]: id=hse_{TYPE}_visiting_menu_item
+#: High_Seas_Era/automatic_village_shops.cfg:36
+msgid "Visit the "
+msgstr ""
+
+#. [option]: speaker=narrator
+#: High_Seas_Era/automatic_village_shops.cfg:69
+msgid "Leave."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: High_Seas_Era/automatic_village_shops.cfg:96
+msgid "You do not have enough gold to hire that unit."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: High_Seas_Era/automatic_village_shops.cfg:118
+msgid "There is no nearby hex to place a unit on."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:157
+msgid "You do not have enough gold to purchase that ship."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:179
+msgid "There is no nearby hex to place a ship on."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:199
+msgid "$name_string $hse_purchased_ship_count"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:218
+msgid "Tavern"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:218
+msgid "You can hire mercenaries here."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:219
+msgid "Hire Ruffian"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:220
+msgid "Hire Thug"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:221
+msgid "Hire Poacher"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:222
+msgid "Hire Footpad"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:224
+msgid "Barracks"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:224
+msgid "You can hire professional soldiers here."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:225
+msgid "Hire Spearman"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:226
+msgid "Hire Bowman"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:227
+msgid "Hire Heavy Infantryman"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:229
+msgid "You can hire orcish mercenaries here."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:229
+msgid "Orcish Town"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:230
+msgid "Hire Grunt"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:231
+msgid "Hire Archer"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:232
+msgid "Hire Assassin"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:235
+#: High_Seas_Era/automatic_village_shops.cfg:293
+msgid "Shipyard"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:235
+msgid "You can purchase new ships here."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:236
+msgid "Purchase Frigate"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:236
+msgid "Frigate"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:237
+msgid "Purchase Galleon"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:237
+msgid "Galleon"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:241
+msgid "Market"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:241
+msgid "You can buy various items here."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:246
+msgid ""
+"<span color='#0000FF'>Nautical Maps</span>\n"
+"+2 to the movement bonus of navigation.\n"
+"Price: 25g"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:271
+msgid ""
+"<span color='#0000FF'>Nautical Maps</span>\n"
+"+2 to the movement bonus of navigation.\n"
+"<span color='#FF0000'>Price: 25g</span>"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:286
+msgid "You do not have enough gold to pay for the maps."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:293
+msgid "You can purchase improvements for your ship here."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:297
+msgid ""
+"<span color='#0000FF'>Hull Repairs</span>\n"
+"Restores your ship's hitpoints.\n"
+"Price: 3HP/1g"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:341
+msgid ""
+"<span color='#0000FF'>Hull Repairs</span>\n"
+"Restores your ship's hitpoints.\n"
+"<span color='#FF0000'>Price: 3HP/1g</span>"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:356
+msgid "You do not have enough gold to repair anything at all."
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:363
+msgid ""
+"<span color='#0000FF'>Enlarge Stern</span>\n"
+"Gives your ship two more cannon slots.\n"
+"Price: 40g"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:385
+msgid ""
+"<span color='#0000FF'>Enlarge Stern</span>\n"
+"Gives your flagship 2 more cannon slots.\n"
+"<span color='#FF0000'>Price: 40g</span>"
+msgstr ""
+
+#: High_Seas_Era/automatic_village_shops.cfg:400
+msgid "You do not have enough gold to pay for that improvement."
+msgstr ""
+
+#. [effect]
+#: High_Seas_Era/enemies.cfg:111
+msgid "flame cannon"
+msgstr ""
+
+#: High_Seas_Era/enemies.cfg:269
+msgid "The Black Freighter"
+msgstr ""
+
+#: High_Seas_Era/enemies.cfg:402
+msgid "Pirate Jenny"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: High_Seas_Era/enemies.cfg:443
+msgid ""
+"High Seas Era warning: Created the Black Freighter on a team that's not "
+"black."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: High_Seas_Era/map_manipulation.cfg:196
+msgid ""
+"EP's High Seas Era error: Expanded map, but still couldn't find place to put "
+"new terrain area."
+msgstr ""
+
+#. [multiplayer]: id=high_seas_era_archipelagic_empire
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:5
+msgid "4p - EP's High Seas - Archipelagic Empires"
+msgstr ""
+
+#. [multiplayer]: id=high_seas_era_archipelagic_empire
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:6
+msgid "What."
+msgstr ""
+
+#. [side]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:119
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:148
+msgid "Enemies"
+msgstr ""
+
+#. [unit]: type=Highwayman
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:130
+msgid "Pirates"
+msgstr ""
+
+#. [unit]: type=Outlaw
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:159
+msgid "Neutral islands"
+msgstr ""
+
+#. [side]
+#. [unit]: type=Cuttle Fish
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:184
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:195
+msgid "Monsters"
+msgstr ""
+
+#. [print]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:221
+msgid "Generating map. This will take a while..."
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:620
+msgid "Bloody"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:620
+msgid "Wandering"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:620
+msgid "Deadly"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:620
+msgid "Castaway"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:620
+msgid "Furious"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:620
+msgid "Alluring"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:620
+msgid "Grinning"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:620
+msgid "Smiling"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:620
+msgid "Perilous"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:624
+msgid "Maiden"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:624
+msgid "Flame"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:624
+msgid "Wombat"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:624
+msgid "Prince"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:624
+msgid "Freighter"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:624
+msgid "Angel"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:624
+msgid "Blade"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:624
+msgid "Devil"
+msgstr ""
+
+#. [set_variable]
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:624
+msgid "Dastard"
+msgstr ""
+
+#. [multiplayer]: id=high_seas_era_archipelagic_empire
+#: High_Seas_Era/scenarios/Archipelagic_Empire.cfg:630
+msgid "The $adj_name_part| $noun_name_part|"
+msgstr ""
+
+#. [unstore_unit]
+#: High_Seas_Era/ship_interior_system.cfg:43
+msgid "Still sinking!"
+msgstr ""
+
+#. [value]: id=ship_is_sinking
+#: High_Seas_Era/ship_interior_system.cfg:69
+msgid "<span color='#FF0000'>sinking (3)</span>"
+msgstr ""
+
+#. [value]: id=ship_is_sinking
+#: High_Seas_Era/ship_interior_system.cfg:70
+msgid "female^<span color='#FF0000'>sinking (3)</span>"
+msgstr ""
+
+#. [value]: id=ship_is_sinking
+#: High_Seas_Era/ship_interior_system.cfg:72
+msgid ""
+"Sinking:\n"
+"This ship is sinking and you have to get out in 3 turns if you want to live!"
+msgstr ""
+
+#. [unstore_unit]
+#: High_Seas_Era/ship_interior_system.cfg:77
+msgid "Sinking!"
+msgstr ""
+
+#. [unstore_unit]
+#: High_Seas_Era/ship_interior_system.cfg:105
+#: High_Seas_Era/ship_interior_system.cfg:123
+msgid "(no use)"
+msgstr ""
+
+#. [unstore_unit]
+#: High_Seas_Era/ship_interior_system.cfg:162
+msgid "Sunk!"
+msgstr ""
+
+#. [dummy]: id=ship_is_sinking
+#: High_Seas_Era/ship_interior_system.cfg:206
+msgid "<span color='#FF0000'>sinking ($old_turns_to_sink|)</span>"
+msgstr ""
+
+#. [dummy]: id=ship_is_sinking
+#: High_Seas_Era/ship_interior_system.cfg:207
+msgid "female^<span color='#FF0000'>sinking ($old_turns_to_sink|)</span>"
+msgstr ""
+
+#. [dummy]: id=ship_is_sinking
+#: High_Seas_Era/ship_interior_system.cfg:209
+msgid ""
+"Sinking:\n"
+"This ship is sinking and you have to get out in $old_turns_to_sink| turns if "
+"you want to live!"
+msgstr ""
+
+#. [set_menu_item]: id=hse_board_ship
+#: High_Seas_Era/ship_interior_system.cfg:225
+msgid "Get on board"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: High_Seas_Era/ship_interior_system.cfg:277
+msgid "Which ship do you want to board?"
+msgstr ""
+
+#. [option]: speaker=narrator
+#. [option]
+#: High_Seas_Era/ship_interior_system.cfg:279
+#: High_Seas_Era/ship_interior_system.cfg:392
+msgid "Never mind."
+msgstr ""
+
+#. [set_menu_item]: id=hse_disembark_ship
+#: High_Seas_Era/ship_interior_system.cfg:299
+msgid "Disembark"
+msgstr ""
+
+#. [message]
+#: High_Seas_Era/ship_interior_system.cfg:390
+msgid "In which direction do you want to disembark?"
+msgstr ""
+
+#. [option]
+#: High_Seas_Era/ship_interior_system.cfg:403
+msgid "Board $adjacent_ships[{INDEX}].name"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: High_Seas_Era/ship_interior_system.cfg:423
+msgid "Your unit does not have enough moves to board!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: High_Seas_Era/ship_interior_system.cfg:431
+msgid "That vessel is so packed with units that you cannot enter!"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:437
+msgid "Disembark to the north"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:439
+msgid "Disembark to the northeast"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:441
+msgid "Disembark to the northwest"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:443
+msgid "Disembark to the south"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:445
+msgid "Disembark to the southeast"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:447
+msgid "Disembark to the southwest"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:450
+msgid "Board the vessel to the north"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:452
+msgid "Board the vessel to the northeast"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:454
+msgid "Board the vessel to the northwest"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:456
+msgid "Board the vessel to the south"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:458
+msgid "Board the vessel to the southeast"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:460
+msgid "Board the vessel to the southwest"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:463
+msgid "<span color='#0000FF'>Walk the plank to the north</span>"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:465
+msgid "<span color='#0000FF'>Walk the plank to the northeast</span>"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:467
+msgid "<span color='#0000FF'>Walk the plank to the northwest</span>"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:469
+msgid "<span color='#0000FF'>Walk the plank to the south</span>"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:471
+msgid "<span color='#0000FF'>Walk the plank to the southeast</span>"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:473
+msgid "<span color='#0000FF'>Walk the plank to the southwest</span>"
+msgstr ""
+
+#. [unstore_unit]
+#: High_Seas_Era/ship_interior_system.cfg:598
+#: High_Seas_Era/ship_interior_system.cfg:800
+msgid "drowned"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:989
+msgid "ram"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:1010
+msgid "cannon"
+msgstr ""
+
+#: High_Seas_Era/ship_interior_system.cfg:1228
+msgid "Flag Ship $side_var"
+msgstr ""
+
+#. [value]
+#: High_Seas_Era/system.cfg:33
+msgid "In The High Seas, you cannot cast Fissure targeting a ship."
+msgstr ""
+
+#. [value]
+#: High_Seas_Era/system.cfg:57
+msgid "In The High Seas, you cannot teleport a ship."
+msgstr ""
