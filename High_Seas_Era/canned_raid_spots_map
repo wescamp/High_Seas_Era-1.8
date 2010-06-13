@@ -1,0 +1,31 @@
+border_size=1
+usage=map
+
+Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Re,    Ch,    Rp,    Xv,    Ch,    Xv,    Ch,    Ch,    Ch,    Xv,    Xv    
+Xv,    Xv,    Re,    Re,    Rd,    Ch,    Rp,    Rp,    Rp,    Ch,    Rp,    Rp,    Rp,    Rp,    Xv    
+Xv,    Re,    Re,    Rd,    Rd,    Rp,    Rp,    Rp,    Rp,    Ch,    Rp,    Rp,    Rp,    Ch,    Xv    
+Xv,    Xv,    Xv,    Re,    Re,    Ch,    Rp,    Rp,    Ch,    Ch,    Ch,    Rp,    Ch,    Rp,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Ch,    Xv,    Xv,    Xv,    Xv,    Xv,    Ch,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xu,    Xv,    Xu,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xu,    Xu,    Uh,    Xu,    Uu^Uf, Xu,    Xu,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Aa,    Aa,    Aa^Fpa,Xu,    Re,    Uu,    Re,    Cud,   Uu,    Xu,    Xv,    Xv,    Xv    
+Xv,    Re,    Re,    Re,    Re,    Uu^Ii, Uu,    Xu,    Re,    Uh,    Re,    Xu,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Ha,    Xu,    Uh^Ii, Re,    Uu^Uf, Uu,    Cud,   Xu,    Xu,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Xu,    Xu,    Xu,    Xu,    Xu,    Xv,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Dd^Dc, Xv,    Chs,   Xv,    Xv,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Gs,    Md,    Chs,   Chs,   Rd,    Dd,    Chs,   Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Dd,    Dd^Dr, Rd,    Gs^Ft, Rd,    Rd,    Rd,    Rd,    Rd,    Chs,   Xv,    Xv,    Xv    
+Xv,    Rd,    Rd,    Rd,    Hd,    Rd,    Chs,   Rd,    Rd,    Chs,   Rd,    Gs,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Dd,    Dd,    Gs,    Chs,   Rd,    Rd,    Rd,    Chs,   Chs,   Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Gs^Ft, Hd,    Chs,   Chs,   Md,    Xv,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Gs^Fp, Xv,    Re^Gvs,Xv,    Xv,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Hh,    Ww,    Re^Gvs,Re^Gvs,Ce,    Ce,    Ce,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Gg,    Gs^Fp, Ggf,   Re^Gvs,Rd,    Ce,    Gg,    Re^Uf, Re,    Ce,    Xv,    Xv,    Xv    
+Xv,    Gg,    Gg,    Gg,    Gg,    Re^Gvs,Rd,    Gg,    Gg,    Gg,    Re,    Ce,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Gg,    Mm,    Re^Gvs,Re^Gvs,Ce,    Ce,    Gg^Fet,Ce,    Ce,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Gs^Fp, Hh,    Re^Gvs,Re^Gvs,Ce,    Xv,    Xv,    Xv,    Xv,    Xv    
+Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv,    Xv    
