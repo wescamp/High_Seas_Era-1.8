@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-06-13 17:44+0200\n"
+"POT-Creation-Date: 2010-10-03 13:19+0200\n"
 "PO-Revision-Date: 2010-06-10 22:22+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -24,7 +24,7 @@ msgid "In The High Seas, you cannot teleport a ship."
 msgstr ""
 
 #. [multiplayer_side]: id=high_seas_faction, type=Duelist
-#: High_Seas_Era/_main.cfg:29 High_Seas_Era/_main.cfg:46
+#: High_Seas_Era/_main.cfg:30 High_Seas_Era/_main.cfg:47
 msgid "Captains"
 msgstr ""
 
@@ -48,186 +48,186 @@ msgstr ""
 msgid "There is no nearby hex to place a unit on."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:160
+#: High_Seas_Era/automatic_village_shops.cfg:188
 msgid "You do not have enough gold to purchase that ship."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:182
+#: High_Seas_Era/automatic_village_shops.cfg:210
 msgid "There is no nearby hex to place a ship on."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:202
+#: High_Seas_Era/automatic_village_shops.cfg:230
 msgid "$name_string $hse_purchased_ship_count"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:221
+#: High_Seas_Era/automatic_village_shops.cfg:249
 msgid "Tavern"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:221
+#: High_Seas_Era/automatic_village_shops.cfg:249
 msgid "You can hire mercenaries here."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:222
+#: High_Seas_Era/automatic_village_shops.cfg:250
 msgid "Hire Ruffian"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:223
+#: High_Seas_Era/automatic_village_shops.cfg:251
 msgid "Hire Thug"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:224
+#: High_Seas_Era/automatic_village_shops.cfg:252
 msgid "Hire Poacher"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:225
+#: High_Seas_Era/automatic_village_shops.cfg:253
 msgid "Hire Footpad"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:227
+#: High_Seas_Era/automatic_village_shops.cfg:255
 msgid "Barracks"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:227
+#: High_Seas_Era/automatic_village_shops.cfg:255
 msgid "You can hire professional soldiers here."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:228
+#: High_Seas_Era/automatic_village_shops.cfg:256
 msgid "Hire Spearman"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:229
+#: High_Seas_Era/automatic_village_shops.cfg:257
 msgid "Hire Bowman"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:230
+#: High_Seas_Era/automatic_village_shops.cfg:258
 msgid "Hire Heavy Infantryman"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:232
+#: High_Seas_Era/automatic_village_shops.cfg:260
 msgid "You can hire orcish mercenaries here."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:232
+#: High_Seas_Era/automatic_village_shops.cfg:260
 msgid "Orcish Town"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:233
+#: High_Seas_Era/automatic_village_shops.cfg:261
 msgid "Hire Grunt"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:234
+#: High_Seas_Era/automatic_village_shops.cfg:262
 msgid "Hire Archer"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:235
+#: High_Seas_Era/automatic_village_shops.cfg:263
 msgid "Hire Assassin"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:237
+#: High_Seas_Era/automatic_village_shops.cfg:265
 msgid "Temple"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:237
+#: High_Seas_Era/automatic_village_shops.cfg:265
 msgid "You can hire nages here."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:238
+#: High_Seas_Era/automatic_village_shops.cfg:266
 msgid "Hire Mage"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:239
+#: High_Seas_Era/automatic_village_shops.cfg:267
 msgid "Hire Dark Adept"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:242
-#: High_Seas_Era/automatic_village_shops.cfg:300
+#: High_Seas_Era/automatic_village_shops.cfg:270
+#: High_Seas_Era/automatic_village_shops.cfg:328
 msgid "Shipyard"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:242
+#: High_Seas_Era/automatic_village_shops.cfg:270
 msgid "You can purchase new ships here."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:243
+#: High_Seas_Era/automatic_village_shops.cfg:271
 msgid "Purchase Frigate"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:243
+#: High_Seas_Era/automatic_village_shops.cfg:271
 msgid "Frigate"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:244
+#: High_Seas_Era/automatic_village_shops.cfg:272
 msgid "Purchase Galleon"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:244
+#: High_Seas_Era/automatic_village_shops.cfg:272
 msgid "Galleon"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:248
+#: High_Seas_Era/automatic_village_shops.cfg:276
 msgid "Market"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:248
+#: High_Seas_Era/automatic_village_shops.cfg:276
 msgid "You can buy various items here."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:253
+#: High_Seas_Era/automatic_village_shops.cfg:281
 msgid ""
 "<span color='#0000FF'>Nautical Maps</span>\n"
 "+2 to the movement bonus of navigation.\n"
 "Price: 25g"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:278
+#: High_Seas_Era/automatic_village_shops.cfg:306
 msgid ""
 "<span color='#0000FF'>Nautical Maps</span>\n"
 "+2 to the movement bonus of navigation.\n"
 "<span color='#FF0000'>Price: 25g</span>"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:293
+#: High_Seas_Era/automatic_village_shops.cfg:321
 msgid "You do not have enough gold to pay for the maps."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:300
+#: High_Seas_Era/automatic_village_shops.cfg:328
 msgid "You can purchase improvements for your ship here."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:304
+#: High_Seas_Era/automatic_village_shops.cfg:332
 msgid ""
 "<span color='#0000FF'>Hull Repairs</span>\n"
 "Restores your ship's hitpoints.\n"
 "Price: 3HP/1g"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:348
+#: High_Seas_Era/automatic_village_shops.cfg:376
 msgid ""
 "<span color='#0000FF'>Hull Repairs</span>\n"
 "Restores your ship's hitpoints.\n"
 "<span color='#FF0000'>Price: 3HP/1g</span>"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:363
+#: High_Seas_Era/automatic_village_shops.cfg:391
 msgid "You do not have enough gold to repair anything at all."
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:370
+#: High_Seas_Era/automatic_village_shops.cfg:398
 msgid ""
 "<span color='#0000FF'>Enlarge Stern</span>\n"
 "Gives your ship two more cannon slots.\n"
 "Price: 40g"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:392
+#: High_Seas_Era/automatic_village_shops.cfg:420
 msgid ""
 "<span color='#0000FF'>Enlarge Stern</span>\n"
 "Gives your flagship 2 more cannon slots.\n"
 "<span color='#FF0000'>Price: 40g</span>"
 msgstr ""
 
-#: High_Seas_Era/automatic_village_shops.cfg:407
+#: High_Seas_Era/automatic_village_shops.cfg:435
 msgid "You do not have enough gold to pay for that improvement."
 msgstr ""
 
@@ -572,18 +572,18 @@ msgstr ""
 
 #. [unstore_unit]
 #: High_Seas_Era/ship_interior_system.cfg:613
-#: High_Seas_Era/ship_interior_system.cfg:823
+#: High_Seas_Era/ship_interior_system.cfg:841
 msgid "drowned"
 msgstr ""
 
-#: High_Seas_Era/ship_interior_system.cfg:1015
+#: High_Seas_Era/ship_interior_system.cfg:1035
 msgid "ram"
 msgstr ""
 
-#: High_Seas_Era/ship_interior_system.cfg:1036
+#: High_Seas_Era/ship_interior_system.cfg:1056
 msgid "cannon"
 msgstr ""
 
-#: High_Seas_Era/ship_interior_system.cfg:1268
+#: High_Seas_Era/ship_interior_system.cfg:1288
 msgid "Flag Ship $side_var"
 msgstr ""
